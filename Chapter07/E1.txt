@@ -1,0 +1,39 @@
+id	date	ha	Team	Goals	pos	Real_Madrid	champions_next_days_after	champions_next_days_before
+1	8/20/2017	H	Real Betis Balompié	2	6	0	0	0
+2	8/26/2017	A	Deportivo Alavés	2	18	0	0	0
+3	9/9/2017	H	RCD Espanyol Barcelona	5	13	0	1	0
+4	9/16/2017	A	Getafe CF	2	10	0	0	1
+5	9/19/2017	H	SD Eibar	6	13	0	0	0
+6	9/23/2017	A	Girona FC	3	15	0	1	0
+7	10/1/2017	H	UD Las Palmas	3	15	0	0	1
+8	10/14/2017	A	Atlético Madrid	1	4	0	1	0
+9	10/21/2017	H	Málaga CF	2	20	0	0	1
+10	10/28/2017	A	Athletic Bilbao	2	11	0	1	0
+11	11/4/2017	H	Sevilla FC	2	5	0	0	1
+12	11/18/2017	A	CD Leganés	3	9	0	1	0
+13	11/26/2017	A	Valencia CF	1	2	0	0	1
+14	12/2/2017	H	Celta de Vigo	2	9	0	1	0
+15	12/10/2017	A	Villarreal CF	2	6	0	0	1
+16	12/17/2017	H	Deportivo de La Coruña	4	17	0	0	0
+17	12/23/2017	A	Real Madrid	3	3	1	0	0
+18	1/7/2018	H	Levante UD	3	16	0	0	0
+19	1/14/2018	A	Real Sociedad	4	12	0	0	0
+20	1/21/2018	A	Real Betis Balompié	5	7	0	0	0
+21	1/28/2018	H	Deportivo Alavés	2	16	0	0	0
+22	2/4/2018	A	RCD Espanyol Barcelona	1	14	0	0	0
+23	2/11/2018	H	Getafe CF	0	11	0	0	0
+24	2/17/2018	A	SD Eibar	2	7	0	1	0
+25	2/24/2018	H	Girona FC	6	8	0	0	1
+26	3/1/2018	A	UD Las Palmas	1	18	0	0	0
+27	3/4/2018	H	Atlético Madrid	1	2	0	0	0
+28	3/10/2018	A	Málaga CF	2	20	0	1	0
+29	3/18/2018	H	Athletic Bilbao	2	12	0	0	1
+30	3/31/2018	A	Sevilla FC	2	6	0	1	0
+31	4/7/2018	H	CD Leganés	3	14	0	1	1
+32	4/14/2018	H	Valencia CF	2	3	0	0	1
+33	4/17/2018	A	Celta de Vigo	2	9	0	0	0
+35	4/29/2018	A	Deportivo de La Coruña	4	18	0	0	0
+36	5/6/2018	H	Real Madrid	2	3	1	0	0
+34	5/9/2018	H	Villarreal CF	5	6	0	0	0
+37	5/13/2018	A	Levante UD	4	16	0	0	0
+38	5/20/2018	H	Real Sociedad	1	10	0	0	0

@@ -1,0 +1,13 @@
+Person,Career,Age,Salary,Contacted
+John,Engineer,+45,10.000,TRUE
+Mike,Engineer,+45,13.000,FALSE
+Lisa,Teacher,30-45,12.000,TRUE
+Marcel,Sales,30-45,18.000,TRUE
+Max,Sales,30-45,12.000,TRUE
+Paul,Teacher,+45,13.000,FALSE
+Paul,Egineer,30-45,18.000,FALSE
+Anthony,Sales,20-30,13.000,FALSE
+Tom,Lawyer,20-30,19.000,FALSE
+Lisa,Lawyer,20-30,18.000,TRUE
+Alex,Teacher,20-30,21.000,TRUE
+Tom,Pilot,30-45,23.000,TRUE
